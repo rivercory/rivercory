@@ -108,11 +108,30 @@
   font-style: normal;
 }
 
+/* 학교안심 우주 https://noonnu.cc/font_page/1223 */
+@font-face {
+  font-family: 'HakgyoansimWoojuR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimWoojuR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* D2Coding https://noonnu.cc/font_page/92 */
+@font-face {
+  font-family: 'D2Coding';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* 본고딕(Noto Sans) https://noonnu.cc/font_page/34 */
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 /* JetBrains Mono https://fonts.google.com/specimen/JetBrains+Mono */
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+
+/* 나눔고딕코딩 https://noonnu.cc/font_page/40 */
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
 
 /* 프리텐다드 */
 .pretendard {
@@ -189,6 +208,16 @@
   font-family: 'IBMPlexSansKR-Regular', Arial;
 }
 
+/* 학교안심 우주 */
+.hakgyoansimwoojur {
+  font-family: 'HakgyoansimWoojuR', Arial;
+}
+
+/* D2Coding */
+.d2coding {
+  font-family: 'D2Coding', Arial;
+}
+
 /* 본고딕(Noto Sans) */
 .notosanskr {
   font-family: 'Noto Sans KR', Arial;
@@ -197,4 +226,9 @@
 /* JetBrains Mono */
 .jetbrainsmono {
   font-family: 'JetBrains Mono', Arial;
+}
+
+/* 나눔고딕코딩 */
+.nanumgothiccoding {
+  font-family: 'Nanum Gothic Coding', Arial;
 }
