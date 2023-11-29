@@ -1,0 +1,200 @@
+/* 프리텐다드 https://noonnu.cc/font_page/694 */
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 아임크리수진체 https://noonnu.cc/font_page/441 */
+@font-face {
+  font-family: 'ImcreSoojin';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.3/ImcreSoojin.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 에스코어드림 https://noonnu.cc/font_page/223 */
+@font-face {
+  font-family: 'S-CoreDream-3Light';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 고도체 https://noonnu.cc/font_page/1 */
+@font-face {
+  font-family: 'Godo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff') format('woff');
+}
+
+/* 스위트 https://noonnu.cc/font_page/1150 */
+@font-face {
+  font-family: 'SUITE-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 수트 https://noonnu.cc/font_page/845 */
+@font-face {
+  font-family: 'SUIT-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_suit@1.0/SUIT-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 나눔스퀘어 https://noonnu.cc/font_page/37 */
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+/* 나눔고딕 https://noonnu.cc/font_page/39 */
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+/* 나눔스퀘어 네오 https://noonnu.cc/font_page/1053 */
+@font-face {
+  font-family: 'NanumSquareNeo-Variable';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* LINE Seed https://noonnu.cc/font_page/1050 */
+@font-face {
+  font-family: 'LINESeedKR-Bd';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 조선일보명조체 https://noonnu.cc/font_page/63 */
+@font-face {
+  font-family: 'Chosunilbo_myungjo';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 엘리스디지털배움체 https://noonnu.cc/font_page/671 */
+@font-face {
+  font-family: 'EliceDigitalBaeum-Bd';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_elice@1.0/EliceDigitalBaeum-Bd.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 페이북 글꼴 https://noonnu.cc/font_page/452 */
+@font-face {
+  font-family: 'paybooc-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 카페24 아네모네 에어 https://noonnu.cc/font_page/852 */
+@font-face {
+  font-family: 'Cafe24Ohsquareair';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2202@1.0/Cafe24Ohsquareair.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* IBM Plex Sans https://noonnu.cc/font_page/448 */
+@font-face {
+  font-family: 'IBMPlexSansKR-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 본고딕(Noto Sans) https://noonnu.cc/font_page/34 */
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+/* JetBrains Mono https://fonts.google.com/specimen/JetBrains+Mono */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+
+/* 프리텐다드 */
+.pretendard {
+  font-family: 'Pretendard-Regular', Arial;
+}
+
+/* 아임크리수진 */
+.imcresoojin {
+  font-family: 'ImcreSoojin', Arial;
+}
+
+/* 에스코어드림 */
+.scoredream {
+  font-family: 'S-CoreDream-3Light', Arial;
+}
+
+/* 고도체 */
+.godo {
+  font-family: 'Godo', Arial;
+}
+
+/* 스위트 */
+.suite {
+  font-family: 'SUITE-Regular', Arial;
+}
+
+/* 수트 */
+.suit {
+  font-family: 'SUIT-Regular', Arial;
+}
+
+/* 나눔스퀘어 */
+.nanumsquare {
+  font-family: 'NanumSquare', Arial;
+}
+
+/* 나눔고딕 */
+.nanumgothic {
+  font-family: 'Nanum Gothic', Arial;
+}
+
+/* 나눔스퀘어 네오 */
+.nanumsquare-neo {
+  font-family: 'NanumSquareNeo-Variable', Arial;
+}
+
+/* LINE Seed */
+.lineseed {
+  font-family: 'LINESeedKR-Bd', Arial;
+}
+
+/* 조선일보명조체 */
+.chosunilbo-myungjo {
+  font-family: 'Chosunilbo_myungjo', Arial;
+}
+
+/* 엘리스디지털배움체 */
+.elicedigitalbaeum {
+  font-family: 'EliceDigitalBaeum-Bd', Arial;
+}
+
+/* 페이북 글꼴 */
+.paybooc {
+  font-family: 'paybooc-Bold', Arial;
+}
+
+/* 카페24 아네모네 에어 */
+.cafe24ohsquareair {
+  font-family: 'Cafe24Ohsquareair', Arial;
+}
+
+/* IBM Plex Sans */
+.ibmplexsans {
+  font-family: 'IBMPlexSansKR-Regular', Arial;
+}
+
+/* 본고딕(Noto Sans) */
+.notosanskr {
+  font-family: 'Noto Sans KR', Arial;
+}
+
+/* JetBrains Mono */
+.jetbrainsmono {
+  font-family: 'JetBrains Mono', Arial;
+}
