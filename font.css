@@ -130,6 +130,9 @@
 /* JetBrains Mono https://fonts.google.com/specimen/JetBrains+Mono */
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
 
+/* Figtree https://fonts.google.com/specimen/Figtree */
+@import url('https://fonts.googleapis.com/css2?family=Figtree&display=swap');
+
 /* 나눔고딕코딩 https://noonnu.cc/font_page/40 */
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
 
@@ -226,6 +229,11 @@
 /* JetBrains Mono */
 .jetbrainsmono {
   font-family: 'JetBrains Mono', Arial;
+}
+
+/* Figtree */
+.figtree {
+  font-family: 'Figtree';
 }
 
 /* 나눔고딕코딩 */
