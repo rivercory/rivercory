@@ -46,6 +46,15 @@
   font-style: normal;
 }
 
+/* 나눔바른고딕 https://noonnu.cc/font_page/36 */
+@font-face {
+  font-family: 'NanumBarunGothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf') format('truetype');
+}
+
 /* 나눔스퀘어 https://noonnu.cc/font_page/37 */
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
@@ -124,6 +133,22 @@
   font-style: normal;
 }
 
+/* 넥슨 Lv.1 고딕 https://noonnu.cc/font_page/432 */
+@font-face {
+  font-family: 'NEXON Lv1 Gothic OTF';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 넥슨 Lv.2 고딕 https://noonnu.cc/font_page/435 */
+@font-face {
+  font-family: 'NEXON Lv2 Gothic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv2 Gothic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* 본고딕(Noto Sans) https://noonnu.cc/font_page/34 */
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
@@ -164,6 +189,11 @@
 /* 수트 */
 .suit {
   font-family: 'SUIT-Regular', Arial;
+}
+
+/* 나눔바른고딕 */
+.nanumbarungothic {
+  font-family: 'NanumBarunGothic', sans-serif;
 }
 
 /* 나눔스퀘어 */
@@ -219,6 +249,14 @@
 /* D2Coding */
 .d2coding {
   font-family: 'D2Coding', Arial;
+}
+
+.nexonlv1gothic {
+  font-family: 'NEXON Lv1 Gothic OTF', Arial;
+}
+
+.nexonlv2gothic {
+  font-family: 'NEXON Lv2 Gothic', Arial;
 }
 
 /* 본고딕(Noto Sans) */
