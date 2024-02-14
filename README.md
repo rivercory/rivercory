@@ -1,12 +1,2 @@
-<div align="center">
-
-</div>
-
-
-<div align="center">
-
-## 💻 My Tech Stack:
-
-[![Node.js, JavaScript](https://skillicons.dev/icons?i=nodejs,js)](https://skillicons.dev)
-
-</div>
+## 💻 My Tech Stack
+[![Node.js, JavaScript, Dotnet, Android Studio React, Svelte, Vue](https://skillicons.dev/icons?i=nodejs,js,dotnet,androidstudio,react,svelte,vue)](https://skillicons.dev)
