@@ -55,12 +55,6 @@
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf') format('truetype');
 }
 
-/* 나눔스퀘어 https://noonnu.cc/font_page/37 */
-@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
-
-/* 나눔고딕 https://noonnu.cc/font_page/39 */
-@import url('https://fonts.googleapis.com/earlyaccess/nanumgothic.css');
-
 /* 나눔스퀘어 네오 https://noonnu.cc/font_page/1053 */
 @font-face {
   font-family: 'NanumSquareNeo-Variable';
@@ -149,6 +143,36 @@
   font-style: normal;
 }
 
+/* 베이글팻 https://noonnu.cc/font_page/1345 */
+@font-face {
+  font-family: 'BagelFatOne-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/BagelFatOne-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 뜀틀 https://noonnu.cc/font_page/1314 */
+@font-face {
+  font-family: 'TTHakgyoansimTtwimteulR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimTtwimteulR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 운동장 https://noonnu.cc/font_page/1316 */
+@font-face {
+  font-family: 'TTHakgyoansimUndongjangL';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimUndongjangL.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* 나눔스퀘어 https://noonnu.cc/font_page/37 */
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+/* 나눔고딕 https://noonnu.cc/font_page/39 */
+@import url('https://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
 /* 본고딕(Noto Sans) https://noonnu.cc/font_page/34 */
 @import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
 
@@ -160,6 +184,18 @@
 
 /* 나눔고딕코딩 https://noonnu.cc/font_page/40 */
 @import url('https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css');
+
+/* Anta https://fonts.google.com/specimen/Anta */
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+/* Raleway https://fonts.google.com/specimen/Raleway */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Raleway Dots https://fonts.google.com/specimen/Raleway+Dots */
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+
+/* Montserrat https://fonts.google.com/specimen/Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* 프리텐다드 */
 .pretendard {
@@ -193,17 +229,7 @@
 
 /* 나눔바른고딕 */
 .nanumbarungothic {
-  font-family: 'NanumBarunGothic', sans-serif;
-}
-
-/* 나눔스퀘어 */
-.nanumsquare {
-  font-family: 'NanumSquare', Arial;
-}
-
-/* 나눔고딕 */
-.nanumgothic {
-  font-family: 'Nanum Gothic', Arial;
+  font-family: 'NanumBarunGothic', Arial;
 }
 
 /* 나눔스퀘어 네오 */
@@ -251,12 +277,39 @@
   font-family: 'D2Coding', Arial;
 }
 
+/* 넥슨 Lv.1 고딕 */
 .nexonlv1gothic {
   font-family: 'NEXON Lv1 Gothic OTF', Arial;
 }
 
+/* 넥슨 Lv.2 고딕 */
 .nexonlv2gothic {
   font-family: 'NEXON Lv2 Gothic', Arial;
+}
+
+/* 베이글팻 */
+.bagelfat {
+  font-family: 'BagelFatOne-Regular', Arial;
+}
+
+/* 학교안심 뜀틀 */
+.tthakgyoansimttwimteulr {
+  font-family: 'TTHakgyoansimTtwimteulR', Arial;
+}
+
+/* 학교안심 운동장 */
+.tthakgyoansimundongjangl {
+  font-family: 'TTHakgyoansimUndongjangL', Arial;
+}
+
+/* 나눔스퀘어 */
+.nanumsquare {
+  font-family: 'NanumSquare', Arial;
+}
+
+/* 나눔고딕 */
+.nanumgothic {
+  font-family: 'Nanum Gothic', Arial;
 }
 
 /* 본고딕(Noto Sans) */
@@ -277,4 +330,24 @@
 /* 나눔고딕코딩 */
 .nanumgothiccoding {
   font-family: 'Nanum Gothic Coding', Arial;
+}
+
+/* Anta */
+.anta {
+  font-family: 'Anta', Arial;
+}
+
+/* Raleway */
+.raleway {
+  font-family: 'Raleway', Arial;
+}
+
+/* Raleway Dots */
+.ralewaydots {
+  font-family: 'Raleway Dots', Arial;
+}
+
+/* Montserrat */
+.montserrat {
+  font-family: 'Montserrat', Arial;
 }
