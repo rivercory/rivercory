@@ -167,6 +167,14 @@
   font-style: normal;
 }
 
+/* 여주도자체 https://noonnu.cc/font_page/1354 */
+@font-face {
+  font-family: 'Ownglyph_meetme-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/Ownglyph_meetme-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* 나눔스퀘어 https://noonnu.cc/font_page/37 */
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
@@ -196,6 +204,12 @@
 
 /* Montserrat https://fonts.google.com/specimen/Montserrat */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Poor Story https://fonts.google.com/specimen/Poor+Story */
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+
+/* Madimi One https://fonts.google.com/specimen/Madimi+One */
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 /* 프리텐다드 */
 .pretendard {
@@ -302,6 +316,11 @@
   font-family: 'TTHakgyoansimUndongjangL', Arial;
 }
 
+/* 밑미 폰트 */
+.ownglyphmeetmerg {
+  font-family: 'Ownglyph_meetme-Rg', Arial;
+}
+
 /* 나눔스퀘어 */
 .nanumsquare {
   font-family: 'NanumSquare', Arial;
@@ -350,4 +369,14 @@
 /* Montserrat */
 .montserrat {
   font-family: 'Montserrat', Arial;
+}
+
+/* Poor Story */
+.poorstory {
+  font-family: 'Poor Story', Arial;
+}
+
+/* Madimi One */
+.madimione {
+  font-family: 'Madimi One', Arial;
 }

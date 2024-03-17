@@ -1,16 +1,28 @@
 # About
 <img src="https://avatars.githubusercontent.com/u/116472903?v=4" width="230"/>
-<br/><b>Hi! I'm Hyeonho Kang.</b> I'm middle school student and currently in Incheon Cheongram Middle School.
+<br/><b>Hi! I'm Hyeonho Kang.</b> </br> I'm middle school student and study in <a href="http://icr.icems.kr">Incheon Cheongram Middle School</a>.
 
 # 💻 My Tech Stack
-[![Node.js, JavaScript, Dotnet, Android Studio, React, Svelte, Vue, Angular](https://skillicons.dev/icons?i=nodejs,js,dotnet,androidstudio,react,svelte,vue,angular)](https://skillicons.dev)
+[![Node.js, JavaScript, Python, Dotnet, Android Studio, React, Svelte, Vue, Angular](https://skillicons.dev/icons?i=nodejs,js,python,dotnet,androidstudio,react,svelte,vue,angular)](https://skillicons.dev)
 
 # Record
 [![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
 
 # Social
+Feel free to contact me 😊
+- [Website](https://rivercory.vercel.app)
 - [GitHub (rivercory)](https://github.com/rivercory)
 - [GitHub (rivercory2)](https://github.com/rivercory2)
 - [GitLab (hyeonho2010)](https://gitlab.com/hyeonho2010)
 - [LinkedIn (hyeonho2010)](https://www.linkedin.com/in/hyeonho2010/)
 - [LinkedIn (hyeonho kang)](https://www.linkedin.com/in/hyeonho-kang-4a1a59240/)
+- [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64/)
+- [DEV Community (hyeonho2010)](https://dev.to/hyeonho2010)
+
+## Email
+- [Gmail](mailto:hyeonhokang10@gmail.com)
+- [Daum](mailto:hyeonhokang10@daum.net)
+- [Kakao](mailto:hyeonhokang10@kakao.com)
+- [Naver](mailto:hyeonho2010@naver.com)
+- [Outlook](mailto:rivercory@outlook.com)
+- [Proton](mailto:hyeonho2010@proton.me)
