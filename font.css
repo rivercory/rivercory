@@ -167,10 +167,26 @@
   font-style: normal;
 }
 
-/* 여주도자체 https://noonnu.cc/font_page/1354 */
+/* 런드리고딕 https://noonnu.cc/font_page/1359 */
 @font-face {
-  font-family: 'Ownglyph_meetme-Rg';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/Ownglyph_meetme-Rg.woff2') format('woff2');
+  font-family: 'TTLaundryGothicB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/TTLaundryGothicB.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 와구리체 https://noonnu.cc/font_page/1353 */
+@font-face {
+  font-family: 'WAGURITTF';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/WAGURITTF.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 온글잎 매일옥자체 https://noonnu.cc/font_page/1351 */
+@font-face {
+  font-family: 'Ownglyph_Dailyokja-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/Ownglyph_Dailyokja-Rg.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -210,6 +226,21 @@
 
 /* Madimi One https://fonts.google.com/specimen/Madimi+One */
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+/* Reddit Mono https://fonts.google.com/specimen/Reddit+Mono */
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
+
+/* Rubik Scribble https://fonts.google.com/specimen/Rubik+Scribble */
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+
+/* Nunito Sans https://fonts.google.com/specimen/Nunito+Sans */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+/* Oswald https://fonts.google.com/specimen/Oswald */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+/* Workbench https://fonts.google.com/specimen/Workbench */
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
 
 /* 프리텐다드 */
 .pretendard {
@@ -316,9 +347,14 @@
   font-family: 'TTHakgyoansimUndongjangL', Arial;
 }
 
-/* 밑미 폰트 */
-.ownglyphmeetmerg {
-  font-family: 'Ownglyph_meetme-Rg', Arial;
+/* 런드리고딕 */
+.ttlaundrygothicb {
+  font-family: 'TTLaundryGothicB', Arial;
+}
+
+/* 와구리체 */
+.wagurittf {
+  font-family: 'WAGURITTF', Arial;
 }
 
 /* 나눔스퀘어 */
@@ -379,4 +415,29 @@
 /* Madimi One */
 .madimione {
   font-family: 'Madimi One', Arial;
+}
+
+/* Reddit Mono */
+.redditmono {
+  font-family: 'Reddit Mono', Arial;
+}
+
+/* Rubik Scribble */
+.rubikscribble {
+  font-family: 'Rubik Scribble', Arial;
+}
+
+/* Nunito Sans */
+.nunitosans {
+  font-family: 'Nunito Sans', Arial;
+}
+
+/* Oswald */
+.oswald {
+  font-family: "Oswald", Arial;
+}
+
+/* Workbench */
+.workbench {
+  font-family: 'Workbench', Arial;
 }
