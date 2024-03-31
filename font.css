@@ -1,3 +1,5 @@
+/* rivercory 폰트 모음 | Version 1.2.11 */
+
 /* 프리텐다드 https://noonnu.cc/font_page/694 */
 @font-face {
   font-family: 'Pretendard-Regular';
@@ -191,6 +193,70 @@
   font-style: normal;
 }
 
+/* KCC한빛체 https://noonnu.cc/font_page/1358 */
+@font-face {
+  font-family: 'KCC-Hanbit';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/KCC-Hanbit.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Gmarket Sans https://noonnu.cc/font_page/366 */
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 여기어때 잘난체 고딕 https://noonnu.cc/font_page/1254 */
+@font-face {
+  font-family: 'JalnanGothic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 롯데리아 촵땡겨체 https://noonnu.cc/font_page/1100 */
+@font-face {
+  font-family: 'LOTTERIACHAB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/LOTTERIACHAB.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 롯데리아 딱붙어체 https://noonnu.cc/font_page/1101 */
+@font-face {
+  font-family: 'LOTTERIADDAG';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/LOTTERIADDAG.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 물결 https://noonnu.cc/font_page/1307 */
+@font-face {
+  font-family: 'TTHakgyoansimMulgyeolB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimMulgyeolB.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 학교안심 산뜻돋움 https://noonnu.cc/font_page/1221 */
+@font-face {
+  font-family: 'HakgyoansimSantteutdotumL';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimSantteutdotumL.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* 학교안심 산뜻바탕 https://noonnu.cc/font_page/1219 */
+@font-face {
+  font-family: 'HakgyoansimSantteutbatangL';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimSantteutbatangL.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
 /* 나눔스퀘어 https://noonnu.cc/font_page/37 */
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
@@ -355,6 +421,46 @@
 /* 와구리체 */
 .wagurittf {
   font-family: 'WAGURITTF', Arial;
+}
+
+/* KCC한빛체 */
+.kcchanbit {
+  font-family: 'KCC-Hanbit', Arial;
+}
+
+/* Gmarket Sans */
+.gmarketsans {
+  font-family: 'GmarketSansMedium', Arial;
+}
+
+/* 여기어때 잘난체 고딕 */
+.jalnangothic {
+  font-family: 'JalnanGothic', Arial;
+}
+
+/* 롯데리아 촵땡겨체 */
+.lotteriachab {
+  font-family: 'LOTTERIACHAB', Arial;
+}
+
+/* 롯데리아 딱붙어체 */
+.lotteriaddag {
+  font-family: 'LOTTERIADDAG', Arial;
+}
+
+/* 학교안심 물결 */
+.tthakgyoansimmulgyeolb {
+  font-family: 'TTHakgyoansimMulgyeolB', Arial;
+}
+
+/* 학교안심 산뜻돋움 */
+.hakgyoansimsantteutdotuml {
+  font-family: 'HakgyoansimSantteutdotumL', Arial;
+}
+
+/* 학교안심 산뜻바탕 */
+.hakgyoansimsantteutbatangl {
+  font-family: 'HakgyoansimSantteutbatangL', Arial;
 }
 
 /* 나눔스퀘어 */
