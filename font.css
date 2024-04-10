@@ -1,4 +1,5 @@
-/* rivercory 폰트 모음 | Version 1.2.11 */
+/* rivercory 폰트 모음 | Version 1.2.12 */
+/* rivercory font assets | Version 1.2.12 */
 
 /* 프리텐다드 https://noonnu.cc/font_page/694 */
 @font-face {
@@ -257,6 +258,126 @@
   font-style: normal;
 }
 
+/* 영주선비체 https://noonnu.cc/font_page/1355 */
+@font-face {
+  font-family: 'YEONGJUSeonbiTTF';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/YEONGJUSeonbiTTF.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 오뮤 다예쁨체 https://noonnu.cc/font_page/1136 */
+@font-face {
+  font-family: 'omyu_pretty';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/omyu_pretty.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 강원교육모두체 https://noonnu.cc/font_page/802 */
+@font-face {
+  font-family: 'GangwonEdu_OTFBoldA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEdu_OTFBoldA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 나무 https://noonnu.cc/font_page/1309 */
+@font-face {
+  font-family: 'TTHakgyoansimNamuL';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimNamuL.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* 티몬체 https://noonnu.cc/font_page/72 */
+@font-face {
+  font-family: 'TmonMonsori';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/TmonMonsori.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 더잠실체 https://noonnu.cc/font_page/1127 */
+@font-face {
+  font-family: 'TheJamsil5Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 학교안심 몽글몽글 https://noonnu.cc/font_page/1306 */
+@font-face {
+  font-family: 'TTHakgyoansimMonggeulmonggeulR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimMonggeulmonggeulR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 가석체 https://noonnu.cc/font_page/1347 */
+@font-face {
+  font-family: 'GasoekOne-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/GasoekOne-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 국민연금체 https://noonnu.cc/font_page/1239 */
+@font-face {
+  font-family: 'NPSfontBold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 잉크립퀴드체 https://noonnu.cc/font_page/68 */
+@font-face {
+  font-family: 'InkLipquid';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/InkLipquid.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 지우개 https://noonnu.cc/font_page/1299 */
+@font-face {
+  font-family: 'TTHakgyoansimJiugaeR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimJiugaeR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 곧은제목 https://noonnu.cc/font_page/1215 */
+@font-face {
+  font-family: 'HakgyoansimGodeunjemokB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimGodeunjemokB.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 학교안심 꼬꼬마 https://noonnu.cc/font_page/1300 */
+@font-face {
+  font-family: 'TTHakgyoansimKkokkomaR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimKkokkomaR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 학교안심 모험가 https://noonnu.cc/font_page/1304 */
+@font-face {
+  font-family: 'TTHakgyoansimMoheomgaB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimMoheomgaB.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 학교안심 붓펜 https://noonnu.cc/font_page/1206 */
+@font-face {
+  font-family: 'HakgyoansimButpenB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimButpenB.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
 /* 나눔스퀘어 https://noonnu.cc/font_page/37 */
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
@@ -461,6 +582,81 @@
 /* 학교안심 산뜻바탕 */
 .hakgyoansimsantteutbatangl {
   font-family: 'HakgyoansimSantteutbatangL', Arial;
+}
+
+/* 영주선비체 */
+.yeongjuseonbittf {
+  font-family: 'YEONGJUSeonbiTTF', Arial;
+}
+
+/* 오뮤 다예쁨체 */
+.omyupretty {
+  font-family: 'omyu_pretty', Arial;
+}
+
+/* 강원교육모두체 */
+.gangwoneduotfbolda {
+  font-family: 'GangwonEdu_OTFBoldA', Arial;
+}
+
+/* 학교안심 나무 */
+.tthakgyoansimnamul {
+  font-family: 'TTHakgyoansimNamuL', Arial;
+}
+
+/* 티몬체 */
+.tmonmonsori {
+  font-family: 'TmonMonsori', Arial;
+}
+
+/* 더잠실체 */
+.thejamsil5bold {
+  font-family: 'TheJamsil5Bold', Arial;
+}
+
+/* 학교안심 몽글몽글 */
+.tthakgyoansimmonggeulmonggeulr {
+  font-family: 'TTHakgyoansimMonggeulmonggeulR', Arial;
+}
+
+/* 가석체 */
+.gaseokoneregular {
+  font-family: 'GasoekOne-Regular', Arial;
+}
+
+/* 국민연금체 */
+.npsfontbold {
+  font-family: 'NPSfontBold', Arial;
+}
+
+/* 잉크립퀴드체 */
+.inklipquid {
+  font-family: 'InkLipquid', Arial;
+}
+
+/* 학교안심 지우개 */
+.tthakgyoansimjiugaer {
+  font-family: 'TTHakgyoansimJiugaeR', Arial;
+}
+
+/* 학교안심 곧은제목 */
+.hakgyoansimgodeunjemokb {
+  font-family: 'HakgyoansimGodeunjemokB', Arial;
+}
+
+/* 학교안심 꼬꼬마 */
+.tthakgyoansimkkokkomar {
+  font-family: 'TTHakgyoansimKkokkomaR', Arial;
+}
+
+/* 학교안심 모험가 */
+.tthakgyoansimmoheomgab {
+  font-family: 'TTHakgyoansimMoheomgaB', Arial;
+}
+
+/* 학교안심 붓펜 */
+.hakgyoansimbutpenb {
+  font-family: 'HakgyoansimButpenB', Arial;
 }
 
 /* 나눔스퀘어 */
