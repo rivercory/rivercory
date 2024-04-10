@@ -1,5 +1,5 @@
-/* rivercory 폰트 모음 | Version 1.2.12 */
-/* rivercory font assets | Version 1.2.12 */
+/* rivercory 폰트 모음 | Version 1.2.13 */
+/* rivercory font assets | Version 1.2.13 */
 
 /* 프리텐다드 https://noonnu.cc/font_page/694 */
 @font-face {
@@ -378,6 +378,174 @@
   font-style: normal;
 }
 
+/* 프리젠테이션 https://noonnu.cc/font_page/1369 */
+@font-face {
+  font-family: 'Freesentation-9Black';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-9Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* 인천교육자람체 https://noonnu.cc/font_page/1226 */
+@font-face {
+  font-family: 'iceJaram-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceJaram-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 인천교육소통체 https://noonnu.cc/font_page/1228 */
+@font-face {
+  font-family: 'iceSotong-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceSotong-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 인천교육시민체 https://noonnu.cc/font_page/1227 */
+@font-face {
+  font-family: 'iceSimin-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceSimin-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 인천교육힘찬체 https://noonnu.cc/font_page/1225 */
+@font-face {
+  font-family: 'iceHimchan-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceHimchan-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Rix이누아리두리네 https://noonnu.cc/font_page/962 */
+@font-face {
+  font-family: 'RixInooAriDuriR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2207-01@1.0/RixInooAriDuriR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* KBO 다이아고딕체 https://noonnu.cc/font_page/1146 */
+@font-face {
+  font-family: 'KBO-Dia-Gothic_bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KBO-Dia-Gothic_bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 원스토어 모바일POP체 https://noonnu.cc/font_page/676 */
+@font-face {
+  font-family: 'ONE-Mobile-POP';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-POP.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 원스토어 모바일고딕 본문체 https://noonnu.cc/font_page/677 */
+@font-face {
+  font-family: 'ONE-Mobile-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 원스토어 모바일고딕 제목체 https://noonnu.cc/font_page/678 */
+@font-face {
+  font-family: 'ONE-Mobile-Title';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-Title.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 산하엽 https://noonnu.cc/font_page/1346 */
+@font-face {
+  font-family: 'Diphylleia-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/Diphylleia-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 던파 비트비트체 v2 https://noonnu.cc/font_page/1233 */
+@font-face {
+  font-family: 'DNFBitBitv2';
+  src: url('https://cdn.df.nexon.com/img/common/font/DNFBitBitv2.otf') format('opentype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* 던파 연단된 칼날 https://noonnu.cc/font_page/1231 */
+@font-face {
+  font-family: 'DNFForgedBlade';
+  src: url('https://cdn.df.nexon.com/img/common/font/DNFForgedBlade-Light.otf') format('opentype');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'DNFForgedBlade';
+  src: url('https://cdn.df.nexon.com/img/common/font/DNFForgedBlade-Medium.otf') format('opentype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'DNFForgedBlade';
+  src: url('https://cdn.df.nexon.com/img/common/font/DNFForgedBlade-Bold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* 던파 비트비트체 https://noonnu.cc/font_page/1043 */
+@font-face {
+  font-family: 'bitbit';
+  src: url('https://cdn.df.nexon.com/img/common/font/DNFBitBit-Regular.woff'),url('//cdn.df.nexon.com/img/common/font/DNFBitBit-Regular.woff2');
+}
+
+/* 부크크 명조 https://noonnu.cc/font_page/1084 */
+@font-face {
+  font-family: 'BookkMyungjo-Bd';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/BookkMyungjo-Bd.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 부크크 고딕 https://noonnu.cc/font_page/1082 */
+@font-face {
+  font-family: 'BookkGothic-Bd';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/BookkGothic-Bd.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* 강원교육튼튼체 https://noonnu.cc/font_page/805 */
+@font-face {
+  font-family: 'GangwonEduPowerExtraBoldA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 강원교육새음체 https://noonnu.cc/font_page/806 */
+@font-face {
+  font-family: 'GangwonEduSaeeum_OTFMediumA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduSaeeum_OTFMediumA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 강원교육현옥샘체 https://noonnu.cc/font_page/804 */
+@font-face {
+  font-family: 'GangwonEduHyeonokT_OTFMediumA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduHyeonokT_OTFMediumA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 검은고딕 https://noonnu.cc/font_page/106 */
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans:400');
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap&subset=korean');
+
 /* 나눔스퀘어 https://noonnu.cc/font_page/37 */
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
@@ -657,6 +825,106 @@
 /* 학교안심 붓펜 */
 .hakgyoansimbutpenb {
   font-family: 'HakgyoansimButpenB', Arial;
+}
+
+/* 프리젠테이션 */
+.freesentation9black {
+  font-family: 'Freesentation-9Black', Arial;
+}
+
+/* 인천교육자람체 */
+.icejaramrg {
+  font-family: 'iceJaram-Rg', Arial;
+}
+
+/* 인천교육소통체 */
+.icesotongrg {
+  font-family: 'iceSotong-Rg', Arial;
+}
+
+/* 인천교육시민체 */
+.icesiminrg {
+  font-family: 'iceSimin-Rg', Arial;
+}
+
+/* 인천교육힘찬체 */
+.icehimchanrg {
+  font-family: 'iceHimchan-Rg', Arial;
+}
+
+/* Rix이누아리두리네 */
+.rixinooaridurir {
+  font-family: 'RixInooAriDuriR', Arial;
+}
+
+/* KBO 다이아고딕체 */
+.kbodiagothicbold {
+  font-family: 'KBO-Dia-Gothic_bold', Arial;
+}
+
+/* 원스토어 모바일POP체 */
+.onemobilepop {
+  font-family: 'ONE-Mobile-POP', Arial;
+}
+
+/* 원스토어 모바일고딕 본문체 */
+.onemobileregular {
+  font-family: 'ONE-Mobile-Regular', Arial;
+}
+
+/* 원스토어 모바일고딕 제목체 */
+.onemobiletitle {
+  font-family: 'ONE-Mobile-Title', Arial;
+}
+
+/* 산하엽 */
+.diphylleiaregular {
+  font-family: 'Diphylleia-Regular', Arial;
+}
+
+/* 던파 비트비트체 v2 */
+.dnfbitbitv2 {
+  font-family: 'DNFBitBitv2', Arial;
+}
+
+/* 던파 연단된 칼날 */
+.dnfforgedblade {
+  font-family: 'DNFForgedBlade', Arial;
+}
+
+/* 던파 비트비트체 */
+.bitbit {
+  font-family: 'bitbit', Arial;
+}
+
+/* 부크크 명조 */
+.bookkmyungjobd {
+  font-family: 'BookkMyungjo-Bd', Arial;
+}
+
+/* 부크크 고딕 */
+.bookkgothicbd {
+  font-family: 'BookkGothic-Bd', Arial;
+}
+
+/* 강원교육튼튼체 */
+.gangwonedupowerextrabolda {
+  font-family: 'GangwonEduPowerExtraBoldA', Arial;
+}
+
+/* 강원교육새음체 */
+.gangwonedusaeeumotfmediuma {
+  font-family: 'GangwonEduSaeeum_OTFMediumA', Arial;
+}
+
+/* 강원교육현옥샘체 */
+.gangwoneduhyeonoktotfmediuma {
+  font-family: 'GangwonEduHyeonokT_OTFMediumA', Arial;
+}
+
+/* 검은고딕 */
+.blackhansans {
+  font-family: 'Black Han Sans', Arial;
 }
 
 /* 나눔스퀘어 */
