@@ -1,5 +1,5 @@
-/* rivercory 폰트 모음 | Version 1.2.13 */
-/* rivercory font assets | Version 1.2.13 */
+/* rivercory 폰트 모음 | Version 1.2.14 */
+/* rivercory font assets | Version 1.2.14 */
 
 /* 프리텐다드 https://noonnu.cc/font_page/694 */
 @font-face {
@@ -542,6 +542,70 @@
   font-style: normal;
 }
 
+/* 시원한 설레임체 https://noonnu.cc/font_page/1290 */
+@font-face {
+  font-family: 'seolleimcool-SemiBold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/seolleimcool-SemiBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 능소화 https://noonnu.cc/font_page/1348 */
+@font-face {
+  font-family: 'GrandifloraOne-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/GrandifloraOne-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 속초바다 돋움체 https://noonnu.cc/font_page/1339 */
+@font-face {
+  font-family: 'SokchoBadaDotum';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/SokchoBadaDotum.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 속초바다 바탕체 https://noonnu.cc/font_page/1337 */
+@font-face {
+  font-family: 'SokchoBadaBatang';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/SokchoBadaBatang.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 속초바다 손글씨체 https://noonnu.cc/font_page/1338 */
+@font-face {
+  font-family: 'SokchoBadaCalligraphy';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/SokchoBadaCalligraphy.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 이사만루 https://noonnu.cc/font_page/463 */
+@font-face {
+  font-family: 'GongGothicMedium';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/GongGothicMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 모이라이 https://noonnu.cc/font_page/1349 */
+@font-face {
+  font-family: 'MoiraiOne-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/MoiraiOne-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 웨이브 파도체 https://noonnu.cc/font_page/1370 */
+@font-face {
+  font-family: 'WavvePADO-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2404@1.0/WavvePADO-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* 검은고딕 https://noonnu.cc/font_page/106 */
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans:400');
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap&subset=korean');
@@ -597,6 +661,15 @@
 /* Workbench https://fonts.google.com/specimen/Workbench */
 @import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
 
+/* Jersey 10 Charted https://fonts.google.com/specimen/Jersey+10+Charted */
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&display=swap');
+
+/* Micro 5 Charted https://fonts.google.com/specimen/Micro+5+Charted */
+@import url('https://fonts.googleapis.com/css2?family=Micro+5+Charted&display=swap');
+
+/* Platypi https://fonts.google.com/specimen/Platypi */
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
 /* 프리텐다드 */
 .pretendard {
   font-family: 'Pretendard-Regular', Arial;
@@ -633,7 +706,7 @@
 }
 
 /* 나눔스퀘어 네오 */
-.nanumsquare-neo {
+.nanumsquareneo {
   font-family: 'NanumSquareNeo-Variable', Arial;
 }
 
@@ -643,7 +716,7 @@
 }
 
 /* 조선일보명조체 */
-.chosunilbo-myungjo {
+.chosunilbomyungjo {
   font-family: 'Chosunilbo_myungjo', Arial;
 }
 
@@ -668,7 +741,7 @@
 }
 
 /* 학교안심 우주 */
-.hakgyoansimwoojur {
+.hakgyoansimwooju {
   font-family: 'HakgyoansimWoojuR', Arial;
 }
 
@@ -693,17 +766,17 @@
 }
 
 /* 학교안심 뜀틀 */
-.tthakgyoansimttwimteulr {
+.tthakgyoansimttwimteul {
   font-family: 'TTHakgyoansimTtwimteulR', Arial;
 }
 
 /* 학교안심 운동장 */
-.tthakgyoansimundongjangl {
+.tthakgyoansimundongjang {
   font-family: 'TTHakgyoansimUndongjangL', Arial;
 }
 
 /* 런드리고딕 */
-.ttlaundrygothicb {
+.ttlaundrygothic {
   font-family: 'TTLaundryGothicB', Arial;
 }
 
@@ -738,22 +811,22 @@
 }
 
 /* 학교안심 물결 */
-.tthakgyoansimmulgyeolb {
+.tthakgyoansimmulgyeol {
   font-family: 'TTHakgyoansimMulgyeolB', Arial;
 }
 
 /* 학교안심 산뜻돋움 */
-.hakgyoansimsantteutdotuml {
+.hakgyoansimsantteutdotum {
   font-family: 'HakgyoansimSantteutdotumL', Arial;
 }
 
 /* 학교안심 산뜻바탕 */
-.hakgyoansimsantteutbatangl {
+.hakgyoansimsantteutbatang {
   font-family: 'HakgyoansimSantteutbatangL', Arial;
 }
 
 /* 영주선비체 */
-.yeongjuseonbittf {
+.yeongjuseonbi {
   font-family: 'YEONGJUSeonbiTTF', Arial;
 }
 
@@ -763,12 +836,12 @@
 }
 
 /* 강원교육모두체 */
-.gangwoneduotfbolda {
+.gangwonedu {
   font-family: 'GangwonEdu_OTFBoldA', Arial;
 }
 
 /* 학교안심 나무 */
-.tthakgyoansimnamul {
+.tthakgyoansimnamu {
   font-family: 'TTHakgyoansimNamuL', Arial;
 }
 
@@ -778,22 +851,22 @@
 }
 
 /* 더잠실체 */
-.thejamsil5bold {
+.thejamsil {
   font-family: 'TheJamsil5Bold', Arial;
 }
 
 /* 학교안심 몽글몽글 */
-.tthakgyoansimmonggeulmonggeulr {
+.tthakgyoansimmonggeulmonggeul {
   font-family: 'TTHakgyoansimMonggeulmonggeulR', Arial;
 }
 
 /* 가석체 */
-.gaseokoneregular {
+.gaseokone {
   font-family: 'GasoekOne-Regular', Arial;
 }
 
 /* 국민연금체 */
-.npsfontbold {
+.npsfont {
   font-family: 'NPSfontBold', Arial;
 }
 
@@ -803,52 +876,52 @@
 }
 
 /* 학교안심 지우개 */
-.tthakgyoansimjiugaer {
+.tthakgyoansimjiugae {
   font-family: 'TTHakgyoansimJiugaeR', Arial;
 }
 
 /* 학교안심 곧은제목 */
-.hakgyoansimgodeunjemokb {
+.hakgyoansimgodeunjemok {
   font-family: 'HakgyoansimGodeunjemokB', Arial;
 }
 
 /* 학교안심 꼬꼬마 */
-.tthakgyoansimkkokkomar {
+.tthakgyoansimkkokkoma {
   font-family: 'TTHakgyoansimKkokkomaR', Arial;
 }
 
 /* 학교안심 모험가 */
-.tthakgyoansimmoheomgab {
+.tthakgyoansimmoheomga {
   font-family: 'TTHakgyoansimMoheomgaB', Arial;
 }
 
 /* 학교안심 붓펜 */
-.hakgyoansimbutpenb {
+.hakgyoansimbutpen {
   font-family: 'HakgyoansimButpenB', Arial;
 }
 
 /* 프리젠테이션 */
-.freesentation9black {
+.freesentation {
   font-family: 'Freesentation-9Black', Arial;
 }
 
 /* 인천교육자람체 */
-.icejaramrg {
+.icejaram {
   font-family: 'iceJaram-Rg', Arial;
 }
 
 /* 인천교육소통체 */
-.icesotongrg {
+.icesotong {
   font-family: 'iceSotong-Rg', Arial;
 }
 
 /* 인천교육시민체 */
-.icesiminrg {
+.icesimin {
   font-family: 'iceSimin-Rg', Arial;
 }
 
 /* 인천교육힘찬체 */
-.icehimchanrg {
+.icehimchan {
   font-family: 'iceHimchan-Rg', Arial;
 }
 
@@ -858,7 +931,7 @@
 }
 
 /* KBO 다이아고딕체 */
-.kbodiagothicbold {
+.kbodiagothic {
   font-family: 'KBO-Dia-Gothic_bold', Arial;
 }
 
@@ -868,7 +941,7 @@
 }
 
 /* 원스토어 모바일고딕 본문체 */
-.onemobileregular {
+.onemobile {
   font-family: 'ONE-Mobile-Regular', Arial;
 }
 
@@ -878,7 +951,7 @@
 }
 
 /* 산하엽 */
-.diphylleiaregular {
+.diphylleia {
   font-family: 'Diphylleia-Regular', Arial;
 }
 
@@ -898,28 +971,68 @@
 }
 
 /* 부크크 명조 */
-.bookkmyungjobd {
+.bookkmyungjo {
   font-family: 'BookkMyungjo-Bd', Arial;
 }
 
 /* 부크크 고딕 */
-.bookkgothicbd {
+.bookkgothic {
   font-family: 'BookkGothic-Bd', Arial;
 }
 
 /* 강원교육튼튼체 */
-.gangwonedupowerextrabolda {
+.gangwonedupower {
   font-family: 'GangwonEduPowerExtraBoldA', Arial;
 }
 
 /* 강원교육새음체 */
-.gangwonedusaeeumotfmediuma {
+.gangwonedusaeeum {
   font-family: 'GangwonEduSaeeum_OTFMediumA', Arial;
 }
 
 /* 강원교육현옥샘체 */
-.gangwoneduhyeonoktotfmediuma {
+.gangwoneduhyeonokt {
   font-family: 'GangwonEduHyeonokT_OTFMediumA', Arial;
+}
+
+/* 시원한 설레임체 */
+.seolleimcool {
+  font-family: 'seolleimcool-SemiBold', Arial;
+}
+
+/* 능소화 */
+.grandifloraone {
+  font-family: 'GrandifloraOne-Regular', Arial;
+}
+
+/* 속초바다 돋움체 */
+.sokchobadadotum {
+  font-family: 'SokchoBadaDotum', Arial;
+}
+
+/* 속초바다 바탕체 */
+.sokchobadabatang {
+  font-family: 'SokchoBadaBatang', Arial;
+}
+
+/* 속초바다 손글씨체 */
+.sokchobadacalligraphy {
+  font-family: 'SokchoBadaCalligraphy', Arial;
+}
+
+/* 이사만루 */
+.gonggothic {
+  font-family: 'GongGothicMedium', Arial;
+}
+
+/* 모이라이 */
+.moiraione {
+  font-family: 'MoiraiOne-Regular', Arial;
+}
+
+/* 웨이브 파도체 */
+.wavvepado {
+  font-family: 'WavvePADO-Regular', Arial;
 }
 
 /* 검은고딕 */
@@ -1010,4 +1123,47 @@
 /* Workbench */
 .workbench {
   font-family: 'Workbench', Arial;
+}
+
+/* Platpi */
+.platpi_300 {
+  font-family: 'Platpi', Arial;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.platpi_400 {
+  font-family: 'Platpi', Arial;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.platpi_500 {
+  font-family: 'Platpi', Arial;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.platpi_600 {
+  font-family: 'Platpi', Arial;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.platpi_700 {
+  font-family: 'Platpi', Arial;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.platpi_800 {
+  font-family: 'Platpi', Arial;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
 }
