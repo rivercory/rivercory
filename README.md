@@ -1,12 +1,14 @@
-# About
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeonho&nbsp;Kang&fontAlign35&fontAlignY=40&color=gradient)
 <img src="https://avatars.githubusercontent.com/u/116472903?v=4" width="230"/>
 <br/><b>Hi! I'm Hyeonho Kang.</b> </br> I'm middle school student and study in <a href="http://icr.icems.kr">Incheon Cheongram Middle School</a>.
 
 # 💻 My Tech Stack
-[![Node.js, JavaScript, Python, Dotnet, Android Studio, React, Svelte, Vue, Angular](https://skillicons.dev/icons?i=nodejs,js,python,dotnet,androidstudio,react,svelte,vue,angular)](https://skillicons.dev)
+[![Node.js, JavaScript, Python, Dotnet, Android Studio, React, Svelte, Vue, Angular](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue)](https://skillicons.dev)
 
 # Record
 [![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivercory&show_icons=true&theme=transparent)
 
 # Social
 Feel free to contact me 😊
@@ -24,5 +26,5 @@ Feel free to contact me 😊
 - [Daum](mailto:hyeonhokang10@daum.net)
 - [Kakao](mailto:hyeonhokang10@kakao.com)
 - [Naver](mailto:hyeonho2010@naver.com)
-- [Outlook](mailto:rivercory@outlook.com)
+- [School](mailto:hyeonhokang10@o365.ice.go.kr)
 - [Proton](mailto:hyeonho2010@proton.me)
