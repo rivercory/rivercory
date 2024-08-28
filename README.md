@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivercory&show_icons=true&theme=transparent)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivercory)](https://git.io/streak-stats)
+
 # Social
 Feel free to contact me 😊
 - [Website](https://rivercory.vercel.app)
