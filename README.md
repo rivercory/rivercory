@@ -3,14 +3,14 @@
 <br/><b>Hi! I'm Hyeonho Kang.</b> </br> I'm middle school student and study in <a href="http://icr.icems.kr">Incheon Cheongram Middle School</a>.
 
 # 💻 My Tech Stack
-[![Node.js, JavaScript, Python, Dotnet, Android Studio, React, Svelte, Vue, Angular](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue)](https://skillicons.dev)
+[![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue)](https://skillicons.dev)
 
-# Record
+# 🔴 Record
 [![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivercory&show_icons=true&theme=transparent)
 
-# Social
+# 🌐 Social
 Feel free to contact me 😊
 - [Website](https://rivercory.vercel.app)
 - [GitHub (rivercory)](https://github.com/rivercory)
@@ -21,7 +21,7 @@ Feel free to contact me 😊
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64/)
 - [DEV Community (hyeonho2010)](https://dev.to/hyeonho2010)
 
-## Email
+## 📧 Email
 - [Gmail](mailto:hyeonhokang10@gmail.com)
 - [Daum](mailto:hyeonhokang10@daum.net)
 - [Kakao](mailto:hyeonhokang10@kakao.com)
