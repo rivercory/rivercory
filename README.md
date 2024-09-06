@@ -16,9 +16,8 @@ Feel free to contact me 😊
 - [GitHub (rivercory)](https://github.com/rivercory)
 - [GitHub (rivercory2)](https://github.com/rivercory2)
 - [GitLab (rivercory)](https://gitlab.com/rivercory)
-- [LinkedIn (hyeonho2010)](https://www.linkedin.com/in/hyeonho2010/)
-- [LinkedIn (hyeonho kang)](https://www.linkedin.com/in/hyeonho-kang-4a1a59240/)
-- [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64/)
+- [LinkedIn (hyeonho2010)](https://www.linkedin.com/in/rivercory)
+- [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
 - [DEV Community (hyeonho2010)](https://dev.to/hyeonho2010)
 
 ## 📧 Email
