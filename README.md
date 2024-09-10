@@ -1,6 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeonho&nbsp;Kang&fontAlign35&fontAlignY=40&color=gradient)
 <img src="https://avatars.githubusercontent.com/u/116472903?v=4" width="230"/>
 <br/><b>Hi! I'm Hyeonho Kang.</b> </br> I'm middle school student and study in <a href="http://icr.icems.kr">Incheon Cheongram Middle School</a>.
+<br/>I've been programming since I was 11 years old.
 
 # 💻 My Tech Stack
 [![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue)](https://skillicons.dev)
