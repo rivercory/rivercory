@@ -9,7 +9,7 @@
 # 🔴 Record
 ![Profile views](https://komarev.com/ghpvc/?username=rivercory)
 
-![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
+[![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivercory&show_icons=true&theme=transparent)
 
