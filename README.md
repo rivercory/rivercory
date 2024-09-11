@@ -22,6 +22,7 @@ Feel free to contact me 😊
 - [LinkedIn (hyeonho2010)](https://www.linkedin.com/in/rivercory)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
 - [DEV Community (hyeonho2010)](https://dev.to/hyeonho2010)
+- [Discord (rivercory)](https://discord.com/users/946935346577424465)
 
 ## 📧 Email
 - [Gmail](mailto:hyeonhokang10@gmail.com)
