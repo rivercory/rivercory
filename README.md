@@ -32,5 +32,3 @@ Feel free to contact me 😊
 - [Nate](mailto:rivercory@nate.com)
 - [School](mailto:hyeonhokang10@o365.ice.go.kr)
 - [Proton](mailto:hyeonho2010@proton.me)
-- [Murena](mailto:rivercory@murena.io)
-- [Yandex](mailto:rivercory@yandex.com)
