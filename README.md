@@ -19,7 +19,6 @@ Feel free to contact me 😊
 - [GitHub (rivercory)](https://github.com/rivercory)
 - [GitHub (rivercory2)](https://github.com/rivercory2)
 - [GitLab (rivercory)](https://gitlab.com/rivercory)
-- [LinkedIn (hyeonho2010)](https://www.linkedin.com/in/rivercory)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
 - [DEV Community (hyeonho2010)](https://dev.to/hyeonho2010)
 - [Discord (rivercory)](https://discord.com/users/946935346577424465)
