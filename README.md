@@ -20,7 +20,6 @@ Feel free to contact me 😊
 - [GitHub (rivercory2)](https://github.com/rivercory2)
 - [GitLab (rivercory)](https://gitlab.com/rivercory)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
-- [DEV Community (hyeonho2010)](https://dev.to/hyeonho2010)
 - [Discord (rivercory)](https://discord.com/users/946935346577424465)
 
 ## 📧 Email
