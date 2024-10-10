@@ -28,5 +28,3 @@ Feel free to contact me 😊
 - [Kakao](mailto:hyeonhokang10@kakao.com)
 - [Naver](mailto:hyeonho2010@naver.com)
 - [Nate](mailto:rivercory@nate.com)
-- [School](mailto:hyeonhokang10@o365.ice.go.kr)
-- [Proton](mailto:hyeonho2010@proton.me)
