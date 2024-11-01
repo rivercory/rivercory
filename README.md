@@ -4,7 +4,7 @@
 <br/>I've been programming since I was 11 years old.
 
 # 💻 My Tech Stack
-[![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue)](https://skillicons.dev)
+[![Node.js, JavaScript, HTML, CSS, Android Studio, Android, React, Vue](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,android,react,vue)](https://skillicons.dev)
 
 # 🔴 Record
 ![Profile views](https://komarev.com/ghpvc/?username=rivercory)
@@ -14,17 +14,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivercory&show_icons=true&theme=transparent)
 
 # 🌐 Social
-Feel free to contact me 😊
-- [Website](https://rivercory.vercel.app)
-- [GitHub (rivercory)](https://github.com/rivercory)
 - [GitHub (rivercory2)](https://github.com/rivercory2)
 - [GitLab (rivercory)](https://gitlab.com/rivercory)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
 - [Discord (rivercory)](https://discord.com/users/946935346577424465)
-
-## 📧 Email
-- [Gmail](mailto:hyeonhokang10@gmail.com)
-- [Daum](mailto:hyeonhokang10@daum.net)
-- [Kakao](mailto:hyeonhokang10@kakao.com)
-- [Naver](mailto:hyeonho2010@naver.com)
-- [Nate](mailto:rivercory@nate.com)
+- [Email](mailto:hyeonhokang10@gmail.com)
