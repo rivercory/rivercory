@@ -4,7 +4,7 @@
 <br/>I've been programming since I was 11 years old.
 
 # 💻 My Tech Stack
-[![Node.js, JavaScript, HTML, CSS, Android Studio, Android, React, Vue](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,android,react,vue)](https://skillicons.dev)
+[![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue)](https://skillicons.dev)
 
 # 🔴 Record
 ![Profile views](https://komarev.com/ghpvc/?username=rivercory)
