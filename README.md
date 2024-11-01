@@ -14,7 +14,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivercory&show_icons=true&theme=transparent)
 
 # 🌐 Social
-- [GitHub (rivercory2)](https://github.com/rivercory2)
 - [GitLab (rivercory)](https://gitlab.com/rivercory)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
 - [Discord (rivercory)](https://discord.com/users/946935346577424465)
