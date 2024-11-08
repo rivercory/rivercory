@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeonho&nbsp;Kang&fontAlign35&fontAlignY=40&color=gradient)
-<img src="https://avatars.githubusercontent.com/u/116472903?v=4" width="400"/>
+<img src="https://i.ibb.co/stSsqsn/20241101-220041.jpg" width="400"/>
 <br/><b>Hi! I'm Hyeonho Kang.</b> </br> I'm middle school student and study in <a href="http://icr.icems.kr">Incheon Cheongram Middle School</a>.
 <br/>I've been programming since I was 11 years old.
 
