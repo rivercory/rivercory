@@ -3,7 +3,7 @@
 <br/><b>Hi! I'm Hyeonho Kang.</b> </br> I'm middle school student and study in <a href="http://icr.icems.kr">Incheon Cheongram Middle School</a>.
 <br/>I've been programming since I was 11 years old.
 
-# 💻 My Tech Stack
+# 💻 My Technology
 [![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue, Figma](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue,figma)](https://skillicons.dev)
 
 # 🔴 Record
