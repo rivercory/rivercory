@@ -6,14 +6,14 @@
 [![Node.js, JavaScript, HTML, CSS, Android Studio, React, Vue, Figma](https://skillicons.dev/icons?i=nodejs,js,html,css,androidstudio,react,vue,figma)](https://skillicons.dev)
 
 # 🔴 Record
-![Profile views](https://komarev.com/ghpvc/?username=rivercory)
+![Profile views](https://komarev.com/ghpvc/?username=corydalis10)
 
 [![wakatime](https://wakatime.com/badge/user/6bf1642e-b278-4e19-927d-23f3a01202dc.svg)](https://wakatime.com/@6bf1642e-b278-4e19-927d-23f3a01202dc)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corydalis10&show_icons=true&theme=transparent)
 
 # 🌐 Social
-- [GitLab (rivercory)](https://gitlab.com/rivercory)
+- [GitLab (corydalis10)](https://gitlab.com/corydalis10)
 - [Reddit (hyeonho64)](https://www.reddit.com/user/hyeonho64)
 - [Discord (rivercory)](https://discord.com/users/946935346577424465)
 - [Email](mailto:hyeonhokang10@gmail.com)
